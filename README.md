@@ -3,7 +3,7 @@ Task 2.1 of embedded systems development . we had to blink our name in LED using
 
 Watch on YOUTUBE: https://www.youtube.com/watch?v=vgYjRPrnKRU&t=21s
 
-CODE:  https://github.com/Vir-4/BlinkName
+CODE:  blinkname.ino
 
 Resources
 https://docs.particle.io/tutorials/hardware-projects/hardware-examples/photon/
